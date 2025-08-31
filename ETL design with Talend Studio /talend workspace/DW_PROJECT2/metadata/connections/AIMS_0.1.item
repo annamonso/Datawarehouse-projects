@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_WoWXILSBEe-LGMd2cFyrJQ" name="AIMS" id="_lnQb4LSAEe-LGMd2cFyrJQ" label="AIMS" dataPackage="_BBK1ULu-Ee-sVdgrIIAj3A" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://postgresfib.fib.upc.edu:6433/AIMS?" dbVersionString="V9_X" Port="6433" Username="joan.acero" Password="enc:system.encryption.key.v1:HejjUZw8rhUFVuXZe7mkBBJDIODpka5DdTRRad9eBqe1WBhY" ServerName="postgresfib.fib.upc.edu" DatasourceName="" FileFieldName="" SID="AIMS" SqlSynthax="" StringQuote="" NullChar="" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="public">
+    <taggedValue xmi:id="_WoYzYLSBEe-LGMd2cFyrJQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_WpEI0LSBEe-LGMd2cFyrJQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_WpMEoLSBEe-LGMd2cFyrJQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_WpMEobSBEe-LGMd2cFyrJQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_WpMEorSBEe-LGMd2cFyrJQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_WpMEo7SBEe-LGMd2cFyrJQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_WpMEpLSBEe-LGMd2cFyrJQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_WpMEpbSBEe-LGMd2cFyrJQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_W6iTULSBEe-LGMd2cFyrJQ" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="_W6iTUbSBEe-LGMd2cFyrJQ" tag="DB ProductVersion" value="13.9"/>
+    <taggedValue xmi:id="_W6iTUrSBEe-LGMd2cFyrJQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_WoYzYbSBEe-LGMd2cFyrJQ" key="CONN_PARA_KEY_USERNAME" value="joan.acero"/>
+    <parameters xmi:id="_9rTFsLu9Ee-sVdgrIIAj3A" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_BBK1ULu-Ee-sVdgrIIAj3A" name="AIMS" dataManager="_WoWXILSBEe-LGMd2cFyrJQ">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_BBK1Ubu-Ee-sVdgrIIAj3A" name="public"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
